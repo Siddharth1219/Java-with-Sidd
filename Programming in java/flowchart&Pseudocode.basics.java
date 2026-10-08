@@ -42,6 +42,8 @@
 
 
 
+
+
 // Design a flowchart and pseudocode for a simple problem: Calculate the sum of two numbers A and B and display the result?
 // Flowchart:
 // Start             circle
@@ -49,6 +51,8 @@
 // Sum = A + B       rectangle
 // Display Sum       parallelogram
 // End               circle
+
+
 
 
 
@@ -62,12 +66,15 @@
 
 
 
+
 //                     Pseudocode print average of A,B and C-
 // Start
 // Input A, B, C
 // Average = (A + B + C) / 3
 // Display Average
 // End
+
+
 
 
 
@@ -79,6 +86,9 @@
 // End                         circle
 
 
+
+
+
 //          Take input add 3 numbers and print -flowchart
 // Start                       circle
 // Input A, B, C               parallelogram
@@ -88,12 +98,16 @@
 
 
 
+
+
 //             Print area of rectangle- flowchart
 // Start                       circle
 // Input Length, Breadth       parallelogram
 // Area = Length * Breadth     rectangle
 // Display Area                parallelogram
 // End                         circle
+
+
 
 
 
@@ -110,6 +124,8 @@
 
 
 
+
+
 //           print counting from 1 to n - flowchart
 // Start                       circle
 // Input n                     parallelogram
@@ -119,3 +135,57 @@
 // Increment i by 1 (i++)     rectangle
 // End While                  diamond
 // End                         circle
+
+
+
+
+
+//              print even numbers from 1 to n - flowchart
+// Start                       circle
+// Input n                     parallelogram
+// Initialize i = 1            rectangle
+// While i <= n               diamond
+// If i % 2 == 0              diamond
+// Display i                  parallelogram
+// Increment i by 1 (i++)     rectangle
+// End While                  diamond
+// End                         circle
+
+
+
+
+
+
+
+//          add n numbers from users input and print - flowchart
+// Start                       circle
+// Input n                     parallelogram
+// Initialize sum = 0          rectangle
+// Initialize i = 1            rectangle
+// While i <= n               diamond
+// Input number               parallelogram
+// sum = sum + number         rectangle
+// Increment i by 1 (i++)     rectangle
+// End While                  diamond
+// Display sum                parallelogram
+// End                         circle
+
+
+
+
+
+
+
+
+
+
+
+
+// Take 2 input, multiply them and print the result - flowchart
+// print perimeter of triangle - flowchart
+// find and print simple interest - flowchart
+// find and print compound interest - flowchart
+//print counting  from n to 1 - flowchart
+//print factorial of a number - flowchart
+// check if a number is prime or not - flowchart
+// print max of 2 numbers - flowchart
