@@ -45,3 +45,25 @@
 // 5. Enums: An enum (short for enumeration) is a special data type that represents a fixed set of constants. It is used to define a collection of related values, such as days of the week or colors. Enums provide type safety and can have methods and fields associated with them.
 // 6. Collections: The Java Collections Framework provides a set of classes and interfaces for working with groups of objects. It includes data structures like lists, sets, and maps, which allow you to store and manipulate collections of data in a flexible and efficient manner.
 // 7. Generics: Generics allow you to define classes, interfaces, and methods with type parameters. They enable you to create reusable code that can work with different data types while providing type safety at compile time. Generics are commonly used in the Java Collections Framework to create type-safe collections.
+
+
+
+
+
+
+
+static void main(){
+    int num1 = 100;
+    System.out.println(num1);
+    short num2 = 1000;
+    System.out.println(num2);
+}
+
+
+
+// Datatype implicit or explicit conversion is the process of converting a value from one data type to another.
+//  In Java, there are two types of type conversion: implicit and explicit.(typecsasting)
+
+// jab mai choto type ka data bada type mai convert karna chahta hu to voh implicit conversion hota hai.
+
+// jab mai bada type ka data choto type mai convert karna chahta hu to voh explicit conversion hota hai.
